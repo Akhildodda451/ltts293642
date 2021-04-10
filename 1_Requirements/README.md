@@ -30,7 +30,8 @@
       <h5>Just enter your name and your partner names and then click Enter.It'll display the result on the output screen. Do not take the results of flames game
         too seriously. It is just for fun, enjoy the game.
 	      <h2>SWOT
-		      ![image](https://user-images.githubusercontent.com/80577252/114270208-c76b4f00-9a28-11eb-9f03-11aed1dd9c9e.png)
+		     
+
 
           
        
