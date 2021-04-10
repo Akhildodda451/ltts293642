@@ -7,7 +7,7 @@
     <h5> 1. Ageing-Time: 10days
     <h5> 2. Ageing-Cost: There should be a persnol computer with required software tools and internet.
   <h1>4W's and 1H
-    [Image for 4W and 1H](https://www.slideshare.net/monicaprillargr/5w-1h-ppt)
+    <h6>[Image for 4W and 1H](https://www.slideshare.net/monicaprillargr/5w-1h-ppt)
     <h2>What
       <h5>Flames game is a relationship caluclating algorithm famous between the youngsters. At the time of graduation everyone might heard about this and many of them
           tried out this out secretly. Some took this as very serious also. So what flames stands for?
@@ -29,7 +29,9 @@
     <h2>How
       <h5>Just enter your name and your partner names and then click Enter.It'll display the result on the output screen. Do not take the results of flames game
         too seriously. It is just for fun, enjoy the game.
-        <h1>SWOT ANALYSIS
+        <h2>SWOT ANALYSIS
+![SWOT](https://user-images.githubusercontent.com/80577252/114269759-4612bd00-9a26-11eb-9fbd-a297dc563a8d.png)
+
 
           
        
