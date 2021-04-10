@@ -31,3 +31,4 @@ and cancelled the letters that are present in both names and maintained count fo
 <h2>How
 <h5>Just enter your name and your partner names and then click Enter.It'll display the result on the output screen. Do not take the results of flames game too seriously. It is just for fun, enjoy the game.
 <h2>SWOT
+![SWOT analysis image](https://user-images.githubusercontent.com/80577252/114271119-6d20bd00-9a2d-11eb-8091-6ddc0516c9bd.png)
