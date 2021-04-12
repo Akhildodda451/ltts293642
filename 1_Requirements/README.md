@@ -1,26 +1,24 @@
-<h1>REQUIREMENTS
+# REQUIREMENTS
   
-<h2>Introduction
+## Introduction
   
-  
-<h5>Here i used c language for code. I used array data structure in this code. First we'll take two names of persons and stored in arrays
-and cancelled the letters that are present in both names and maintained count for it and then this count is ittrated through the word
-‘flames’. For doing the code i have used standard I/O functions, library functions, string functions, switch cases, loops, conditions etc.
+##### Here i used c language for code. I used array data structure in this code. First we'll take two names of persons and stored in arrays and cancelled the letters that are present in both names and maintained count for it and then this count is ittrated through the word‘flames’. For doing the code i have used standard I/O functions, library functions, string functions, switch cases, loops, conditions etc.
 
-<h2>State of Art
-<h5>1. Ageing-Time: 10days
-<h5>2. Ageing-Cost: There should be a persnol computer with required software tools and internet.
+## State of Art
+   S.No| Ageing-Time & Cost|days
+   ----|-------------------|------
+   1| Ageing-Time|10days
+   2| Ageing-Cost|There should be a persnol computer with required software tools and internet.
   
-<h2>4W's and 1H
+## 4W's and 1H
   
-<h5>![4W1H](https://user-images.githubusercontent.com/80577252/114448743-8ffbce80-9bf1-11eb-80a8-476aa607cad8.png)
+##### ![4W1H] (https://user-images.githubusercontent.com/80577252/114448743-8ffbce80-9bf1-11eb-80a8-476aa607cad8.png)
 
-<h2>What
-<h5>Flames game is a relationship caluclating algorithm famous between the youngsters. At the time of graduation everyone might heard about this and many of them
-  tried out this out secretly. Some took this as very serious also. So what flames stands for?
-<h5>•F-Friends
-<h5>•L-Love
-<h5>•A-Affection
+## What
+##### Flames game is a relationship caluclating algorithm famous between the youngsters. At the time of graduation everyone might heard about this and many of them tried out this out secretly. Some took this as very serious also. So what flames stands for?
+##### •F-Friends
+##### •L-Love
+<h5>•-Affection
 <h5>•M-Marriage
 <h5>•E-Enemy
 <h5>•S-Sister
@@ -65,6 +63,6 @@ and cancelled the letters that are present in both names and maintained count fo
 <h2>Disadvantages
   <h5>•The relation between the two persons may not be real it’s just based on given condition.
   <h5>•Sometimes the results might mislead to problems, so don't take them seriously.
-    
+  
 
       
