@@ -6,7 +6,7 @@ Here i used c language for code. I used array data structure in this code. First
 are present in both names and maintained count for it and then this count is ittrated through the word ‘flames’. For doing the code i have used standard I/O functions, library functions, string functions, switch cases, loops, conditions etc.
 
 ## State of Art
-   S.No| Ageing-Time & Cost|days
+   S.No| Ageing-Time & Cost|Time
    ----|-------------------|------
    1| Ageing-Time|10days
    2| Ageing-Cost|There should be a persnol computer with required software tools and internet.
@@ -20,7 +20,7 @@ Flames game is a relationship caluclating algorithm famous between the youngster
 this out secretly. Some took this as very serious also. So what flames stands for?
 ##### •F-Friends
 ##### •L-Love
-##### •-Affection
+##### •A-Affection
 ##### •M-Marriage
 ##### •E-Enemy
 ##### •S-Sister
@@ -37,14 +37,14 @@ It is just for fun, enjoy the game.
 ## SWOT
 ![SWOT analysis image](https://user-images.githubusercontent.com/80577252/114271119-6d20bd00-9a2d-11eb-8091-6ddc0516c9bd.png)
   
-  ##High Level Requirements
+  ## High Level Requirements
   HLR|Description
   ---|----------
   HLR1|User should enter charecter as an input.
   HLR2|User can give input of anysize.
   HLR3|User must and should give two inputs.
     
- <Low Level Requirements
+ ## Low Level Requirements
   LLR|Description
   ---|-----------
   LLR1|Input should not be a numerical value or special charecter.
@@ -55,9 +55,11 @@ It is just for fun, enjoy the game.
   
 ## About the FLAMES GAME
   •The relationship game is nothing but a flames game which we have played during the school age. It's all based on NAMES.
+  
   •Here we take two names and delete the letters that are common in both names and count the length of both strings (after removing the similar letters) and
     Count through the letters of ‘flames’ Move through the letters in the word "FLAMES" one at a time until your count reaches the total number of leftover letters
     that you found previously.
+    
   •Note your ending letter. Whichever letter you end on will provide you the answer for the kind of relationship you can look forward to with the person
       whose name you are using.
 ## Advantages
