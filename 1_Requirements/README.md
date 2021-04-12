@@ -13,7 +13,8 @@ and cancelled the letters that are present in both names and maintained count fo
   
 <h2>4W's and 1H
   
-<h5>
+<h5>![4W1H](https://user-images.githubusercontent.com/80577252/114448743-8ffbce80-9bf1-11eb-80a8-476aa607cad8.png)
+
 <h2>What
 <h5>Flames game is a relationship caluclating algorithm famous between the youngsters. At the time of graduation everyone might heard about this and many of them tried out this out secretly. Some took this as very serious also. So what flames stands for?
 <h5>•F-Friends
@@ -31,7 +32,7 @@ and cancelled the letters that are present in both names and maintained count fo
 <h2>How
 <h5>Just enter your name and your partner names and then click Enter.It'll display the result on the output screen. Do not take the results of flames game too seriously. It is just for fun, enjoy the game.
 <h2>SWOT
-![SWOT analysis image](https://user-images.githubusercontent.com/80577252/114271119-6d20bd00-9a2d-11eb-8091-6ddc0516c9bd.png)
+<h5>![SWOT analysis image](https://user-images.githubusercontent.com/80577252/114271119-6d20bd00-9a2d-11eb-8091-6ddc0516c9bd.png)
   
  <h2>High Level Requirements
   <h5>HLR1:User should enter charecter as an input.
