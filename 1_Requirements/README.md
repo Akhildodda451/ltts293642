@@ -43,11 +43,11 @@ and cancelled the letters that are present in both names and maintained count fo
   <h5>HLR2:User can give input of anysize.
   <h5>HLR3:User must and should give two inputs.
     
- <h2>LLR1:Low Level Requirements
-  <h5>LLR2:Input should not be a numerical value or special charecter.
-  <h5>LLR3:User should give a Male and a female name.
-  <h5>LLR4:The matching charecters(Letters) will be deleted and length will be caluclated.
-  <h5>LLR5:End letter will provide the answer for the kind of relationship.
+ <h2>Low Level Requirements
+  <h5>LLR1:Input should not be a numerical value or special charecter.
+  <h5>LLR2:User should give a Male and a female name.
+  <h5>LLR3:The matching charecters(Letters) will be deleted and length will be caluclated.
+  <h5>LLR4:End letter will provide the answer for the kind of relationship.
   
   
 <h2>About the FLAMES GAME
