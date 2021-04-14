@@ -22,6 +22,3 @@ These are of two two types:
   2.Sequence diagram
   
 ![Sequence](https://user-images.githubusercontent.com/80577252/114761640-6623e280-9d7e-11eb-9a22-764176db5727.png)
-
-
-This Readme file is all about UML diagrams i.e., structural and behavioral diagrams.
