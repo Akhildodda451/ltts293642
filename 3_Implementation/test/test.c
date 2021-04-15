@@ -37,10 +37,10 @@ void test_f1(void) {
 }
 
 void test_f2(void) {
-  TEST_ASSERT_EQUAL(-3, subtract(0, 3));
+  TEST_ASSERT_EQUAL("akhil", f2(strlwr("Akhil");
 
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(100, subtract(1000, 900));
+  TEST_ASSERT_EQUAL("bujji", f2(strlwr("Bujji"));
 }
 
 void test_strlwr(void) {
