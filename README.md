@@ -36,10 +36,10 @@ S.No| Folder |Description
   
   •Sometimes the results might mislead to problems, so don't take them seriously.
 # Learning resources
-  1. ![Codacy](https://app.codacy.com/gh/Akhildodda451/ltts293642/dashboard)
+  1. [Codacy](https://app.codacy.com/gh/Akhildodda451/ltts293642/dashboard)
 
-  2. ![Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+  2. [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
-  3. ![Code Inspector](https://frontend.code-inspector.com/account/profile)
+  3. [Code Inspector](https://frontend.code-inspector.com/account/profile)
 
-  4. ![Git Actions](https://github.com/Akhildodda451/ltts293642/actions/new)
+  4. [Git Actions](https://github.com/Akhildodda451/ltts293642/actions/new)
