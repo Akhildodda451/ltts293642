@@ -17,5 +17,6 @@ LLR4|Caluclating the count of letters|Pass
 
 Output Screenshot:
 ![Output](https://user-images.githubusercontent.com/80577252/114973167-86968e80-9e9d-11eb-99a3-bee051ec1f2a.png)
+
 ![Op1](https://user-images.githubusercontent.com/80577252/114973214-a332c680-9e9d-11eb-9f0c-90c3b483d9e0.png)
 
